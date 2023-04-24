@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  padding: 20px;
+}
+
+.nav {
+  margin-bottom: 20px;
+}
+
+.nav ul{
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+
+  list-style: none;
+
+  gap: 4px;
+}
+
+.middle {
+  margin: 20px 0 10px 0;
+}
+
+.product {
+  margin: 15px 0;
+}
+
+.mainServices h1 {
+  margin-bottom: 20px;
+}
+.mainServices h3 {
+  margin-bottom: 20px;
+}
+.mainServices p {
+  margin-bottom: 20px;
+}
+
+.aboutMain h1 {
+  margin-bottom: 20px;
+}
